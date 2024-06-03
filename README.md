@@ -17,7 +17,7 @@ Microsoft is planning to enter the movie industry by establishing a new movie st
 
 
 ## Data
-
+All the data used in this project has been obtained from a various credible sources and can all be found [here](https://github.com/bourzat/microsoft-movie-insights/tree/main/zippedData).
 
 
 ## Methods
@@ -29,7 +29,10 @@ This projects uses exploratory data analysis to uncover trends in the data. All 
 ## Conclusions
 1. The production the production budget should be kept between a minimum of `20 million` to `70 million` dollars in order to mitigate risk and increase profits.
 2. The studio should release movies in `May` ,`June`, `July`, `November` and `December` to increase total revenue.
-3. The genre combinations `Comdey, Documentary, History`, `Adventure, Drama, Romance`, `Comedy, Documentary`, `Action, Crime` and `Musical` are the most successful genres and the production team should focus on creating movies around these. 
+3. The genre combinations `Comdey, Documentary, History`, `Adventure, Drama, Romance`, `Comedy, Documentary`, `Action, Crime` and `Musical` are the most successful genres and the production team should focus on creating movies around these.
+
+## Further reading
+To find out more about this project, checkout the [notebook]() or [presentation]().
 
 ## Repository Structure
 ├── code
