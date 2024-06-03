@@ -23,14 +23,6 @@ All the data used in this project has been obtained from a various credible sour
 ## Methods
 This projects uses exploratory data analysis to uncover trends in the data. All relevant libraries such as `pandas`, `matplotlib` and `seaborn` have been used.
 
-## Results
-
-
-## Conclusions
-1. The production the production budget should be kept between a minimum of `20 million` to `70 million` dollars in order to mitigate risk and increase profits.
-2. The studio should release movies in `May` ,`June`, `July`, `November` and `December` to increase total revenue.
-3. The genre combinations `Comdey, Documentary, History`, `Adventure, Drama, Romance`, `Comedy, Documentary`, `Action, Crime` and `Musical` are the most successful genres and the production team should focus on creating movies around these.
-
 ## Further reading
 To find out more about this project, checkout the [notebook]() or [presentation]().
 
@@ -61,3 +53,41 @@ To find out more about this project, checkout the [notebook]() or [presentation]
 ```
 
 ## Repository Navigation
+### Key Files and Directories
+#### .gitignore
+Lists files and directories that should be ignored by Git. This helps keep the repository clean from unnecessary files.
+
+#### .ipynb_checkpoints/
+
+Contains checkpoint files for Jupyter Notebooks. These are automatically created and updated by Jupyter.
+
+#### Images/
+
+This directory contains all the images used in the project. These images include visualizations and diagrams such as:
+* **Boxplot.png**: Boxplot visualization.
+* **ERD.png**: Entity-Relationship Diagram.
+* **Relsease_Date_bargraph.png**: Bar graph showing release dates.
+* **Top_Genre_bargraph.png**: Bar graph showing top genres.
+* **microsoft2.png**: Additional relevant image.
+
+#### Microsoft_Movie_Insights.ipynb
+
+The main Jupyter Notebook containing the project's code, data analysis, and visualizations. Open this file to explore the project's workflow and findings.
+
+#### README.md
+
+The README file provides an overview of the project, including the business problem, objectives, data sources, and instructions for running the analysis.
+
+#### microsoft-movie-insights-presentation.pdf
+
+The presentation file summarizing the project's findings, recommendations, and business implications. Use this for a quick overview of the project and its results.
+
+#### zippedData/
+
+This directory contains the compressed data files used in the analysis. These include:
+* **bom.movie_gross.csv.gz**: Box Office Mojo data on movie gross earnings.
+* **im.db.zip**: IMDb database.
+* **rt.movie_info.tsv.gz**: Rotten Tomatoes movie information.
+* **rt.reviews.tsv.gz**: Rotten Tomatoes reviews.
+* **tmdb.movies.csv.gz**: TMDB (The Movie Database) movies data.
+* **tn.movie_budgets.csv.gz**: Data on movie budgets.
