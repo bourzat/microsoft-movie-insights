@@ -21,11 +21,27 @@ Microsoft is planning to enter the movie industry by establishing a new movie st
 
 
 ## Methods
+This projects uses exploratory data analysis to uncover trends in the data. All relevant libraries such as `pandas`, `matplotlib` and `seaborn` have been used.
 
 ## Results
 
-## Conclusions
 
-## Repository Structure 
+## Conclusions
+1. The production the production budget should be kept between a minimum of `20 million` to `70 million` dollars in order to mitigate risk and increase profits.
+2. The studio should release movies in `May` ,`June`, `July`, `November` and `December` to increase total revenue.
+3. The genre combinations `Comdey, Documentary, History`, `Adventure, Drama, Romance`, `Comedy, Documentary`, `Action, Crime` and `Musical` are the most successful genres and the production team should focus on creating movies around these. 
+
+## Repository Structure
+├── code
+│   ├── __init__.py
+│   ├── data_preparation.py
+│   ├── visualizations.py
+│   └── eda_notebook.ipynb
+├── data
+├── images
+├── __init__.py
+├── README.md
+├── Animal_Shelter_Needs_Presentation.pdf
+└── animal_shelter_needs_analysis.ipynb
 
 ## Repository Navigation
