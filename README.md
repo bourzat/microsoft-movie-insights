@@ -24,7 +24,7 @@ All the data used in this project has been obtained from a various credible sour
 This projects uses exploratory data analysis to uncover trends in the data. All relevant libraries such as `pandas`, `matplotlib` and `seaborn` have been used.
 
 ## Further reading
-To find out more about this project, checkout the [notebook]() or [presentation]().
+To find out more about this project, checkout the [notebook](https://github.com/bourzat/microsoft-movie-insights/blob/main/Microsoft_Movie_Insights.ipynb) or [presentation](https://github.com/bourzat/microsoft-movie-insights/blob/main/microsoft-movie-insights-presentation.pdf).
 
 ## Repository Structure
 ```
