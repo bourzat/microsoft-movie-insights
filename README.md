@@ -35,16 +35,29 @@ This projects uses exploratory data analysis to uncover trends in the data. All 
 To find out more about this project, checkout the [notebook]() or [presentation]().
 
 ## Repository Structure
-├── code
-│   ├── __init__.py
-│   ├── data_preparation.py
-│   ├── visualizations.py
-│   └── eda_notebook.ipynb
-├── data
-├── images
-├── __init__.py
-├── README.md
-├── Animal_Shelter_Needs_Presentation.pdf
-└── animal_shelter_needs_analysis.ipynb
+```
+├─ .DS_Store
+├─ .gitignore
+├─ .ipynb_checkpoints
+│  └─ Microsoft_Movie_Insights-checkpoint.ipynb
+├─ Images
+│  ├─ .DS_Store
+│  ├─ Boxplot.png
+│  ├─ ERD.png
+│  ├─ Relsease_Date_bargraph.png
+│  ├─ Top_Genre_bargraph.png
+│  └─ microsoft2.png
+├─ Microsoft_Movie_Insights.ipynb
+├─ README.md
+├─ microsoft-movie-insights-presentation.pdf
+└─ zippedData
+   ├─ .DS_Store
+   ├─ bom.movie_gross.csv.gz
+   ├─ im.db.zip
+   ├─ rt.movie_info.tsv.gz
+   ├─ rt.reviews.tsv.gz
+   ├─ tmdb.movies.csv.gz
+   └─ tn.movie_budgets.csv.gz
+```
 
 ## Repository Navigation
